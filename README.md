@@ -9,7 +9,7 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Shrinidhi S Uppoor**, currently I am working at Jalan Technology Consulting as Full Time QAE. <br>
+✔️ I am **Shrinidhi S Uppoor**. <br>
 
 ✔️ I am interested in Testing, Product management, UI/UX. <br>
 
