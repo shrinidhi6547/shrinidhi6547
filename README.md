@@ -13,7 +13,7 @@
 
 ✔️ I am interested in Testing, Product management, UI/UX. <br>
 
-✔️ I am Love Trekking, Music, Riding, Swimming. <br>
+✔️ I am Trekking, Music, Riding, and Swimming. <br>
 
 <br>
 
