@@ -38,7 +38,7 @@
  
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/hsahu615/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/shrinidhi6547/count.svg?align=center)
 
 
 <!-- GITHUB STATISTICS -->
@@ -54,7 +54,7 @@
 ---
  
 <!-- ACTIVITY GRAPH TRACKER -->
-[![Himanshu's github activity graph](https://activity-graph.herokuapp.com/graph?username=shrinidhi6547&theme=react-dark)](https://github.com/hsahu615/github-readme-activity-graph)
+[![Himanshu's github activity graph](https://activity-graph.herokuapp.com/graph?username=shrinidhi6547&theme=react-dark)](https://github.com/shrinidhi6547/github-readme-activity-graph)
 
   
 
