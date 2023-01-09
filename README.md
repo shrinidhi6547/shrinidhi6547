@@ -52,12 +52,5 @@
          
 
 ---
- 
-<!-- ACTIVITY GRAPH TRACKER -->
-[![Himanshu's github activity graph](https://activity-graph.herokuapp.com/graph?username=shrinidhi6547&theme=react-dark)](https://github.com/shrinidhi6547/github-readme-activity-graph)
-
-  
-
----
   </code>
 </p>
